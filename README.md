@@ -13,7 +13,7 @@ The ESP32 runs the awesome [Tasmota](https://tasmota.github.io/docs/) firmware a
 
 ## Usage
 Assemble the board as per schematics and flash Tasmota (version >=13).
-Drop the Berry-script into the filesystem and add it to the 'autoexec.be' as per the example.
+Drop the Berry-script named [ltc4281.be](/app/ltc4281.be) from the [app](/app) folder into the filesystem and add it to the 'autoexec.be' as per the example.
 
 ## License
 This project is licensed under the GPLv3.
